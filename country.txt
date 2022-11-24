@@ -1,0 +1,232 @@
+ABW __****__ Aruba
+AFG __****__ Afghanistan
+AFRI __****__ Africa
+AGO __****__ Angola
+AIA __****__ Anguilla
+ALB __****__ Albania
+AND __****__ Andorra
+ANT __****__ Netherlands Antilles
+ARE __****__ United Arab Emirates
+ARG __****__ Argentina
+ASIA __****__ Asia
+ASM __****__ American Samoa
+ATG __****__ Antigua and Barbuda
+AUS __****__ Australia
+AUT __****__ Austria
+BDI __****__ Burundi
+BEL __****__ Belgium
+BEN __****__ Benin
+BFA __****__ Burkina Faso
+BGD __****__ Bangladesh
+BGR __****__ Bulgaria
+BHR __****__ Bahrain
+BHS __****__ Bahamas
+BLZ __****__ Belize
+BMU __****__ Bermuda
+BOL __****__ Bolivia
+BRA __****__ Brazil
+BRB __****__ Barbados
+BRN __****__ Brunei Darussalam
+BTN __****__ Bhutan
+BWA __****__ Botswana
+CAF __****__ Central African Republic
+CAN __****__ Canada
+CCK __****__ Cocos (Keeling) Islands
+CHE __****__ Switzerland
+CHL __****__ Chile
+CHN __****__ China
+CIV __****__ Côte d'Ivoire
+CMR __****__ Cameroon
+COD __****__ Congo, Dem. Rep. Of
+COG __****__ Congo
+COK __****__ Cook Islands
+COL __****__ Colombia
+COM __****__ Comoros
+CPV __****__ Cape Verde
+CRI __****__ Costa Rica
+CSFR __****__ Former Czechoslovakia
+CSFR-CZE __****__ Czech Republic
+CSFR-SVK __****__ Slovak Republic
+CUB __****__ Cuba
+CYM __****__ Cayman Islands
+CYP __****__ Cyprus
+DEU __****__ Germany
+DJI __****__ Djibouti
+DMA __****__ Dominica
+DNK __****__ Denmark
+DOM __****__ Dominican Republic
+DZA __****__ Algeria
+ECU __****__ Ecuador
+EGY __****__ Egypt
+ERI __****__ Eritrea
+ESH __****__ Western Sahara
+ESP __****__ Spain
+ETH __****__ Ethiopia
+EURO __****__ Europe
+FIN __****__ Finland
+FJI __****__ Fiji
+FLK __****__ Falkland Islands
+FRA __****__ France
+FSM __****__ Micronesia, Federated states of
+FYUG __****__ Former Yugoslavia
+FYUG-BIH __****__ Bosnia-Herzegovina
+FYUG-HRV __****__ Croatia
+FYUG-MKD __****__ Macedonia
+FYUG-SVN __****__ Slovenia
+FYUG-YUG __****__ Serbia and Montenegro
+GAB __****__ Gabon
+GBR __****__ United Kingdom
+GHA __****__ Ghana
+GIB __****__ Gibraltar
+GIN __****__ Guinea
+GMB __****__ Gambia
+GNB __****__ Guinea-Bissau
+GNQ __****__ Equatorial Guinea
+GRC __****__ Greece
+GRD __****__ Grenada
+GTM __****__ Guatemala
+GUM __****__ Guam
+GUY __****__ Guyana
+HKG __****__ Hong Kong
+HND __****__ Honduras
+HTI __****__ Haiti
+HUN __****__ Hungary
+IDN __****__ Indonesia
+IND __****__ India
+IOT __****__ British Indian Ocean Territory
+IRL __****__ Ireland
+IRN __****__ Iran
+IRQ __****__ Iraq
+ISL __****__ Iceland
+ISR __****__ Israel
+ITA __****__ Italy
+JAM __****__ Jamaica
+JOR __****__ Jordan
+JPN __****__ Japan
+KEN __****__ Kenya
+KHM __****__ Cambodia
+KIR __****__ Kiribati
+KNA __****__ Saint Kitts and Nevis
+KOREA-NO __****__ North Korea
+KOREA-NS __****__ South Korea
+KOREA-SO __****__ North and South Korea
+KWT __****__ Kuwait
+LAO __****__ Laos
+LBN __****__ Lebanon
+LBR __****__ Liberia
+LBY __****__ Libya
+LCA __****__ Saint Lucia
+LIE __****__ Liechtenstein
+LKA __****__ Sri Lanka
+LSO __****__ Lesotho
+LUX __****__ Luxembourg
+MAC __****__ Macau
+MAR __****__ Morocco
+MCO __****__ Monaco
+MDG __****__ Madagascar
+MDV __****__ Maldives
+MEX __****__ Mexico
+MHL __****__ Marshall Islands
+MLI __****__ Mali
+MLT __****__ Malta
+MMR __****__ Myanmar
+MNG __****__ Mongolia
+MNP __****__ Northern Mariana Islands
+MOZ __****__ Mozambique
+MRT __****__ Mauritania
+MSR __****__ Montserrat
+MUS __****__ Mauritius
+MWI __****__ Malawi
+MYS __****__ Malaysia
+NAM __****__ Namibia
+NER __****__ Niger
+NFK __****__ Norfolk Islands
+NGA __****__ Nigeria
+NIC __****__ Nicaragua
+NIU __****__ Niue
+NLD __****__ Netherlands
+NOAM __****__ North America
+NOR __****__ Norway
+NPL __****__ Nepal
+NRU __****__ Nauru
+NZL __****__ New Zealand
+OCEA __****__ Oceania
+OMN __****__ Oman
+OTH __****__ Other
+PAK __****__ Pakistan
+PAN __****__ Panama
+PCN __****__ Pitcairn
+PER __****__ Peru
+PHL __****__ Philippines
+PLW __****__ Pacific Islands (Palau)
+PNG __****__ Papua New Guinea
+POL __****__ Poland
+PRI __****__ Puerto Rico
+PRT __****__ Portugal
+PRY __****__ Paraguay
+PSE __****__ Occupied Palestinian Territory
+QAT __****__ Qatar
+ROU __****__ Romania
+RWA __****__ Rwanda
+SAU __****__ Saudi Arabia
+SCAC __****__ South and Central America
+SDN __****__ Sudan
+SEN __****__ Senegal
+SGP __****__ Singapore
+SHN __****__ Saint Helena
+SJM __****__ Svalbard and Jan Mayen Islands
+SLB __****__ Solomon Islands
+SLE __****__ Sierra Leone
+SLV __****__ El Salvador
+SMR __****__ San Marino
+SOM __****__ Somalia
+STP __****__ Sao Tome and Principe
+SUR __****__ Suriname
+SWE __****__ Sweden
+SWZ __****__ Swaziland
+SYC __****__ Seychelles
+SYR __****__ Syria
+TCA __****__ Turks and Caicos Islands
+TCD __****__ Chad
+TGO __****__ Togo
+THA __****__ Thailand
+TKL __****__ Tokelau
+TLS __****__ Timor-Leste
+TMP __****__ East Timor
+TON __****__ Tonga
+TTO __****__ Trinidad and Tobago
+TUN __****__ Tunisia
+TUR __****__ Turkey
+TUV __****__ Tuvalu
+TWN __****__ Chinese Taipei
+TZA __****__ United Republic of Tanzania
+URY __****__ Uruguay
+USA __****__ United States
+USSR __****__ Former USSR
+USSR-ARM __****__ Armenia
+USSR-AZE __****__ Azerbaidjan
+USSR-BLR __****__ Belarus
+USSR-EST __****__ Estonia
+USSR-GEO __****__ Georgia
+USSR-KAZ __****__ Kazakhstan
+USSR-KGZ __****__ Kirghizistan
+USSR-LTU __****__ Lithuania
+USSR-LVA __****__ Latvia
+USSR-MDA __****__ Moldova
+USSR-RUS __****__ Russia
+USSR-TJK __****__ Tadjikistan
+USSR-TKM __****__ Turkménistan
+USSR-UKR __****__ Ukraine
+USSR-UZB __****__ Uzbekistan
+VAT __****__ Holy See
+VCT __****__ Saint Vincent and the Grenadines
+VEN __****__ Venezuela
+VGB __****__ British Virgin Islands
+VIR __****__ United States Virgin Islands
+VNM __****__ Vietnam
+VUT __****__ Vanuatu
+WSM __****__ Samoa
+YEM __****__ Yemen
+ZAF __****__ South Africa
+ZMB __****__ Zambia
+ZWE __****__ Zimbabwe
